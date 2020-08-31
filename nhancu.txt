@@ -1,4 +1,5 @@
 Cu Do Thanh Nhan
+<<<<<<< HEAD
 Class NhanCu{
     int age;
 public:
