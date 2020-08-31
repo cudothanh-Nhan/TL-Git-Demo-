@@ -1,5 +1,6 @@
 Cu Do Thanh Nhan
 Master here
+Thai here
 Class NhanCu{
     int a;
 public:
