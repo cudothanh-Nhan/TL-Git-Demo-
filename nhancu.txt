@@ -1,7 +1,7 @@
 Cu Do Thanh Nhan
 <<<<<<< HEAD
 Class NhanCu{
-    int age;
+    int ages;
 public:
     int see();
 }
