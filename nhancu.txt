@@ -1,1 +1,7 @@
 Cu Do Thanh Nhan
+class Test{
+    int a;
+    int b;
+    public:
+    Test();
+}
