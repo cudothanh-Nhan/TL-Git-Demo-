@@ -1,1 +1,6 @@
 Cu Do Thanh Nhan
+Class NhanCu{
+    int age;
+public:
+    int see();
+}
