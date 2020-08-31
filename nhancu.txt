@@ -1,5 +1,5 @@
 Cu Do Thanh Nhan
-<<<<<<< HEAD
+Huhu lose HEAD
 Class NhanCu{
     int a;
 public:
