@@ -5,4 +5,4 @@ Class NhanCu{
 public:
     int see();
 }
-int change();Dog Nhan\n
+int change();
