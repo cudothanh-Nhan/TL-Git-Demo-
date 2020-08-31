@@ -4,3 +4,4 @@ Class NhanCu{
 public:
     int see();
 }
+int change();
