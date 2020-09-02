@@ -7,4 +7,5 @@ Class NhanCu{
     public:
     Test();
     hihi
+    Nghich ngu
 }
