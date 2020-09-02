@@ -1,5 +1,7 @@
 Cu Do Thanh Nhan
-class Test{
+Mas here
+Thai here
+Class NhanCu{
     int a;
     int b;
     public:
