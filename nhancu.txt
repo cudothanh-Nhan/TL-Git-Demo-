@@ -7,3 +7,4 @@ public:
     int see();
 }
 int change();
+Va lam roi
