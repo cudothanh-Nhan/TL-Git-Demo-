@@ -7,5 +7,9 @@ Class NhanCu{
     public:
     Test();
     hihi
+<<<<<<< HEAD
     Haha
+=======
+    Nghich ngu
+>>>>>>> f438aba291a06284c620b6af68b2cb89688c1bcf
 }
