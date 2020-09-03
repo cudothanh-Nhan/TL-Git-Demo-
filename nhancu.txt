@@ -1,15 +1,1 @@
-Cu Do Thanh Nhan
-Mas here
-Thai here
-Class NhanCu{
-    int a;
-    int b;
-    public:
-    Test();
-    hihi
-<<<<<<< HEAD
-    Haha
-=======
-    Nghich ngu
->>>>>>> f438aba291a06284c620b6af68b2cb89688c1bcf
-}
+Remote here
